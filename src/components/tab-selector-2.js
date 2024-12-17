@@ -8,7 +8,10 @@ const TabSelector2 = (props) => {
   const [tabSelector, setTabSelector] = useState(1)
   const [tabSelector1, setTabSelector1] = useState(1)
   return (
-    <div className={`tab-selector-2-container ${props.rootClassName} `}>
+    <div
+      id={props.tabSelector2Id}
+      className={`tab-selector-2-container ${props.rootClassName} `}
+    >
       <div className="tab-selector-2-product">
         <div className="tab-selector-2-frame133">
           <div className="tab-selector-2-frame362">
@@ -393,10 +396,12 @@ const TabSelector2 = (props) => {
 
 TabSelector2.defaultProps = {
   rootClassName: '',
+  tabSelector2Id: '',
 }
 
 TabSelector2.propTypes = {
   rootClassName: PropTypes.string,
+  tabSelector2Id: PropTypes.string,
 }
 
 export default TabSelector2

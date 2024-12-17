@@ -108,25 +108,14 @@
  
 .thq-button-filled {
   gap: var(--dl-space-space-halfunit);
-  color: var(--dl-color-theme-secondary1);
+  color: #ffffff;
   cursor: pointer;
-  display: flex;
   padding: 8px 16px;
-  transition: 0.3s;
   align-items: center;
-  white-space: nowrap;
   border-color: #28A1B2;
-  border-width: 1px;
   border-radius: 8px;
   justify-content: center;
   background-color: #28A1B2;
-}
- 
-.thq-button-filled:hover {
-  fill: var(--dl-color-theme-secondary2);
-  color: var(--dl-color-theme-secondary2);
-  border-color: var(--dl-color-theme-primary2);
-  background-color: var(--dl-color-theme-primary2);
 }
  
 .thq-button-outline {

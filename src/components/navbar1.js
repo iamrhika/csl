@@ -15,56 +15,41 @@ const Navbar1 = (props) => {
         />
         <div data-thq="thq-navbar-nav" className="navbar1-desktop-menu">
           <nav className="navbar1-links1">
-            <a href={props.link1Url} className="navbar1-link11 thq-body-small">
+            <span className="navbar1-link11 thq-body-small">
               {props.link1 ?? (
                 <Fragment>
                   <span className="navbar1-text8">Home</span>
                 </Fragment>
               )}
-            </a>
-            <a
-              href={props.link4Url}
-              target="_blank"
-              rel="noreferrer noopener"
-              className="navbar1-link41 thq-body-small"
-            >
+            </span>
+            <span className="navbar1-link41 thq-body-small">
               {props.link4 ?? (
                 <Fragment>
                   <span className="navbar1-text4">About Us</span>
                 </Fragment>
               )}
-            </a>
-            <a
-              href={props.link3Url}
-              target="_blank"
-              rel="noreferrer noopener"
-              className="navbar1-link31 thq-body-small"
-            >
+            </span>
+            <span className="navbar1-link31 thq-body-small">
               {props.link3 ?? (
                 <Fragment>
                   <span className="navbar1-text3">Acknowedgement</span>
                 </Fragment>
               )}
-            </a>
-            <a href={props.link2Url} className="navbar1-link21 thq-body-small">
+            </span>
+            <span className="navbar1-link21 thq-body-small">
               {props.link2 ?? (
                 <Fragment>
                   <span className="navbar1-text6">Services</span>
                 </Fragment>
               )}
-            </a>
-            <a
-              href={props.link5Url}
-              target="_blank"
-              rel="noreferrer noopener"
-              className="navbar1-link51 thq-body-small"
-            >
+            </span>
+            <span className="navbar1-link51 thq-body-small">
               {props.link5 ?? (
                 <Fragment>
                   <span className="navbar1-text5">Product</span>
                 </Fragment>
               )}
-            </a>
+            </span>
           </nav>
           <div className="navbar1-buttons1">
             <button className="navbar1-action11 thq-button-filled">
