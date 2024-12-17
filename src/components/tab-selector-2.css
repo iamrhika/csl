@@ -1011,6 +1011,8 @@
   .tab-selector-2-frame133 {
     gap: 24px;
     width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
   }
   .tab-selector-2-frame362 {
     align-self: center;
@@ -1019,6 +1021,7 @@
     align-self: center;
   }
   .tab-selector-2-frame3731 {
+    gap: 24px;
     flex-direction: column;
   }
   .tab-selector-2-image1 {
@@ -1028,7 +1031,19 @@
   .tab-selector-2-frame3741 {
     width: 100%;
   }
+  .tab-selector-2-frame3751 {
+    gap: 16px;
+    align-items: center;
+  }
+  .tab-selector-2-text21 {
+    text-align: center;
+  }
+  .tab-selector-2-text22 {
+    align-self: center;
+    text-align: center;
+  }
   .tab-selector-2-frame3732 {
+    gap: 24px;
     align-items: center;
     flex-direction: column;
   }
@@ -1039,7 +1054,21 @@
   .tab-selector-2-frame3742 {
     width: 100%;
   }
+  .tab-selector-2-frame3752 {
+    align-self: center;
+  }
+  .tab-selector-2-text29 {
+    align-self: center;
+  }
+  .tab-selector-2-text30 {
+    text-align: center;
+  }
+  .tab-selector-2-text31 {
+    align-self: center;
+    text-align: center;
+  }
   .tab-selector-2-frame3733 {
+    gap: 24px;
     align-items: center;
     flex-direction: column;
   }
@@ -1049,5 +1078,20 @@
   }
   .tab-selector-2-frame3743 {
     width: 100%;
+  }
+  .tab-selector-2-frame3753 {
+    gap: 16px;
+    align-self: center;
+  }
+  .tab-selector-2-text38 {
+    align-self: center;
+  }
+  .tab-selector-2-text39 {
+    align-self: center;
+    text-align: center;
+  }
+  .tab-selector-2-text40 {
+    align-self: center;
+    text-align: center;
   }
 }
