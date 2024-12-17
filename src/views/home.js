@@ -1008,9 +1008,8 @@ const Home = (props) => {
             Trusted by Clients Around the Globe
           </span>
           <div className="home-frame3821">
-            <span className="home-text241 BodyB1M">Indonesia</span>
             <div className="home-frame3822">
-              <span className="home-text242 BodyB1M">Indonesia</span>
+              <span className="home-text241 BodyB1M">Indonesia</span>
               <div className="home-frame3462">
                 <img
                   src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/04f7d5cd-9401-4984-9017-7e0377034071?org_if_sml=11157&amp;force_format=original"
@@ -1197,7 +1196,7 @@ const Home = (props) => {
           </div>
           <div className="home-frame3851">
             <div className="home-frame383">
-              <span className="home-text243 BodyB1M">United Kingdom</span>
+              <span className="home-text242 BodyB1M">United Kingdom</span>
               <div className="home-frame3463">
                 <img
                   alt="image1338"
@@ -1212,7 +1211,7 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-frame3852">
-              <span className="home-text244 BodyB1M">Vietnam</span>
+              <span className="home-text243 BodyB1M">Vietnam</span>
               <img
                 alt="image1338"
                 src="/external/image1338-j6vr-200h.png"
@@ -1220,7 +1219,7 @@ const Home = (props) => {
               />
             </div>
             <div className="home-frame387">
-              <span className="home-text245 BodyB1M">Morocco</span>
+              <span className="home-text244 BodyB1M">Morocco</span>
               <img
                 alt="image1339"
                 src="/external/image1339-dbam-200h.png"
@@ -1228,7 +1227,7 @@ const Home = (props) => {
               />
             </div>
             <div className="home-frame388">
-              <span className="home-text246 BodyB1M">Iraq</span>
+              <span className="home-text245 BodyB1M">Iraq</span>
               <img
                 alt="image1339"
                 src="/external/image1339-a97i-200h.png"
@@ -1236,7 +1235,7 @@ const Home = (props) => {
               />
             </div>
             <div className="home-frame389">
-              <span className="home-text247 BodyB1M">Afghanistan</span>
+              <span className="home-text246 BodyB1M">Afghanistan</span>
               <img
                 alt="image1339"
                 src="/external/image1339-h0yd-200h.png"
@@ -1244,7 +1243,7 @@ const Home = (props) => {
               />
             </div>
             <div className="home-frame390">
-              <span className="home-text248 BodyB1M">Mauritania</span>
+              <span className="home-text247 BodyB1M">Mauritania</span>
               <img
                 alt="image1339"
                 src="/external/image1339-n3j-200h.png"
@@ -1252,7 +1251,7 @@ const Home = (props) => {
               />
             </div>
             <div className="home-frame391">
-              <span className="home-text249 BodyB1M">Uganda</span>
+              <span className="home-text248 BodyB1M">Uganda</span>
               <div className="home-frame3464">
                 <img
                   alt="image1340"
@@ -1267,7 +1266,7 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-frame392">
-              <span className="home-text250 BodyB1M">Kenya</span>
+              <span className="home-text249 BodyB1M">Kenya</span>
               <img
                 alt="image1340"
                 src="/external/image1340-qfb-200h.png"
@@ -1275,7 +1274,7 @@ const Home = (props) => {
               />
             </div>
             <div className="home-frame393">
-              <span className="home-text251 BodyB1M">Zambia</span>
+              <span className="home-text250 BodyB1M">Zambia</span>
               <img
                 alt="image1341"
                 src="/external/image1341-uxhd-200h.png"
@@ -1365,10 +1364,10 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-frame403">
-              <span className="home-text252 HeadingH2SB">
+              <span className="home-text251 HeadingH2SB">
                 Get in Touch with Us
               </span>
-              <span className="home-text253 BodyB1R">
+              <span className="home-text252 BodyB1R">
                 Have questions or need assistance? Contact us today, and our
                 team will be happy to help you!
               </span>
@@ -1377,32 +1376,32 @@ const Home = (props) => {
           <div className="home-frame400">
             <div className="home-frame402">
               <div className="home-frame397">
-                <span className="home-text254 BodyB3M">Full name</span>
+                <span className="home-text253 BodyB3M">Full name</span>
                 <div className="home-frame3961">
-                  <span className="home-text255 BodyB3R">
+                  <span className="home-text254 BodyB3R">
                     Enter your full name
                   </span>
                 </div>
               </div>
               <div className="home-frame399">
-                <span className="home-text256 BodyB3M">Email address</span>
+                <span className="home-text255 BodyB3M">Email address</span>
                 <div className="home-frame3962">
-                  <span className="home-text257 BodyB3R">
+                  <span className="home-text256 BodyB3R">
                     email@address.com
                   </span>
                 </div>
               </div>
             </div>
             <div className="home-frame398">
-              <span className="home-text258 BodyB3M">Send us a message</span>
+              <span className="home-text257 BodyB3M">Send us a message</span>
               <div className="home-frame3963">
-                <span className="home-text259 BodyB3R">
+                <span className="home-text258 BodyB3R">
                   Write us a message...
                 </span>
               </div>
             </div>
             <div className="home-frame1061">
-              <span className="home-text260 BodyB2M">Send Message</span>
+              <span className="home-text259 BodyB2M">Send Message</span>
             </div>
           </div>
         </div>
@@ -1470,10 +1469,10 @@ const Home = (props) => {
                 </div>
               </div>
               <div className="home-frame404">
-                <span className="home-text261 BodyB2M">
+                <span className="home-text260 BodyB2M">
                   PT. Cipta Srigati Lestari
                 </span>
-                <span className="home-text262 BodyB3R">
+                <span className="home-text261 BodyB3R">
                   Plaza Simatupang Lantai. 2 Jl. TB. Simatupang Kav. IS No.01
                   Pd. Pinang, Kec. Kby. Lama Kota Jakarta Selatan, Daerah Khusus
                   Ibukota Jakarta 12310
@@ -1482,19 +1481,19 @@ const Home = (props) => {
             </div>
             <div className="home-frame406">
               <div className="home-frame405">
-                <span className="home-text263 BodyB3R">Home</span>
-                <span className="home-text264 BodyB3R">About Us</span>
-                <span className="home-text265 BodyB3R">Acknowledgement</span>
-                <span className="home-text266 BodyB3R">Service</span>
-                <span className="home-text267 BodyB3R">Product</span>
+                <span className="home-text262 BodyB3R">Home</span>
+                <span className="home-text263 BodyB3R">About Us</span>
+                <span className="home-text264 BodyB3R">Acknowledgement</span>
+                <span className="home-text265 BodyB3R">Service</span>
+                <span className="home-text266 BodyB3R">Product</span>
               </div>
               <div className="home-frame1062">
-                <span className="home-text268 BodyB3M">Contact Us</span>
+                <span className="home-text267 BodyB3M">Contact Us</span>
               </div>
             </div>
           </div>
           <div className="home-frame409">
-            <span className="home-text269 BodyB3R">
+            <span className="home-text268 BodyB3R">
               © 2024 Cipta. All rights reserved
             </span>
           </div>
