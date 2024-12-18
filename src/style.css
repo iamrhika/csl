@@ -666,6 +666,15 @@
   text-decoration: none;
 }
  
+.HeadingH3SB {
+  font-size: 28px;
+  font-style: normal;
+  font-family: Lexend;
+  font-weight: 600px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
 @media(max-width: 845px) {
   .thq-section-padding {
     padding: var(--dl-space-space-oneandhalfunits);
