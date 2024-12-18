@@ -2219,12 +2219,12 @@
  
 .home-frame3472 {
   gap: 80px;
-  width: 100%;
+  width: 1152px;
   display: flex;
   align-self: center;
   align-items: center;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 0px;
+  padding-right: 0px;
   flex-direction: column;
 }
  
@@ -3520,6 +3520,7 @@
     width: 100%;
   }
   .home-frame3472 {
+    width: 100%;
     padding-left: 40px;
     padding-right: 40px;
   }
