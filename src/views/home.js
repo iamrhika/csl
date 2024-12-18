@@ -1175,191 +1175,189 @@ const Home = (props) => {
           <span className="home-text251 HeadingH4M">
             Trusted by Clients Around the Globe
           </span>
-          <div className="home-frame3821">
-            <div className="home-frame3822">
-              <span className="home-text252 BodyB1M">Indonesia</span>
-              <div className="home-frame3462">
-                <img
-                  alt="image1334"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/04f7d5cd-9401-4984-9017-7e0377034071?org_if_sml=11157&amp;force_format=original"
-                  className="home-image19"
-                />
-                <img
-                  alt="image1334"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/e59751cf-b6db-4a8a-83cc-3ba264781f3a?org_if_sml=11628&amp;force_format=original"
-                  className="home-image20"
-                />
-                <img
-                  alt="image1334"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/5cdcacf2-286b-46a2-9ece-686808f108b1?org_if_sml=11421&amp;force_format=original"
-                  className="home-image21"
-                />
-                <img
-                  alt="image1334"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/cf0594e9-016b-4ff1-9ef1-7375259610a2?org_if_sml=11468&amp;force_format=original"
-                  className="home-image22"
-                />
-                <img
-                  alt="image1334"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/cedf3c94-1ba3-45e1-b3d8-32a5ba6b719a?org_if_sml=11294&amp;force_format=original"
-                  className="home-image23"
-                />
-                <img
-                  alt="image1334"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/06526981-9dd6-4dd0-8dde-7639648a5b3c?org_if_sml=11556&amp;force_format=original"
-                  className="home-image24"
-                />
-                <img
-                  alt="image1334"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/e0b2ea43-b46f-4266-ba4e-244885d24184?org_if_sml=11402&amp;force_format=original"
-                  className="home-image25"
-                />
-                <img
-                  alt="image1335"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/3e19b496-b31b-484f-a9c9-bd793ac70f68?org_if_sml=11639&amp;force_format=original"
-                  className="home-image26"
-                />
-                <img
-                  alt="image1335"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/11f55a9e-52d5-4764-97de-87ae1f4cb835?org_if_sml=11401&amp;force_format=original"
-                  className="home-image27"
-                />
-                <img
-                  alt="image1335"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/4b29b1e0-8f61-47fd-b97d-fae4fbb47abc?org_if_sml=11915&amp;force_format=original"
-                  className="home-image28"
-                />
-                <img
-                  alt="image1335"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/b40b3689-071b-4e17-94c3-636f8f8867db?org_if_sml=11438&amp;force_format=original"
-                  className="home-image29"
-                />
-                <img
-                  alt="image1335"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/76272b99-ab32-483e-a1cf-bd8f97107eaa?org_if_sml=11313&amp;force_format=original"
-                  className="home-image30"
-                />
-                <img
-                  alt="image1335"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/66ce1af5-c29e-4131-8c30-14ea35c57aa2?org_if_sml=11063&amp;force_format=original"
-                  className="home-image31"
-                />
-                <img
-                  alt="image1335"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/2b382dc7-ba12-49ae-923e-2d990d269ab3?org_if_sml=11826&amp;force_format=original"
-                  className="home-image32"
-                />
-                <img
-                  alt="image1335"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/294b2a8d-27ea-494e-9eea-93e4d0a07588?org_if_sml=12132&amp;force_format=original"
-                  className="home-image33"
-                />
-                <img
-                  alt="image1335"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/c568234b-7f11-486e-adbb-d14a60fe8436?org_if_sml=11556&amp;force_format=original"
-                  className="home-image34"
-                />
-                <img
-                  alt="image1335"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/0c2e28e2-00e1-4a22-907c-8f11d3eaf3ee?org_if_sml=11770&amp;force_format=original"
-                  className="home-image35"
-                />
-                <img
-                  alt="image1336"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/29788cb2-99f4-4a27-bac8-345b4560dcb9?org_if_sml=11645&amp;force_format=original"
-                  className="home-image36"
-                />
-                <img
-                  alt="image1336"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/4b1f1575-e3ce-4a19-82c4-8e6e149b3212?org_if_sml=11081&amp;force_format=original"
-                  className="home-image37"
-                />
-                <img
-                  alt="image1336"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/e4645bf1-cedb-4c89-bcf4-5d6a4df06e4d?org_if_sml=11875&amp;force_format=original"
-                  className="home-image38"
-                />
-                <img
-                  alt="image1336"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/5bb41a23-1cfd-42ab-a0de-5c9ef5c2a2f3?org_if_sml=11722&amp;force_format=original"
-                  className="home-image39"
-                />
-                <img
-                  alt="image1336"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/38d8b695-f2f9-441b-ab54-59dad95c10f4?org_if_sml=11817&amp;force_format=original"
-                  className="home-image40"
-                />
-                <img
-                  alt="image1336"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/dab8b7e5-26ef-4cf6-b012-60557a1e7005?org_if_sml=14362&amp;force_format=original"
-                  className="home-image41"
-                />
-                <img
-                  alt="image1336"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/d9fa91f5-e7d2-4bd8-97fd-618cb869bda7?org_if_sml=11575&amp;force_format=original"
-                  className="home-image42"
-                />
-                <img
-                  alt="image1336"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/9bbfca9e-82c5-41ee-9f0c-cfab3377ecd6?org_if_sml=11918&amp;force_format=original"
-                  className="home-image43"
-                />
-                <img
-                  alt="image1336"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/8cd693ca-5099-4660-b724-e429a468369d?org_if_sml=11394&amp;force_format=original"
-                  className="home-image44"
-                />
-                <img
-                  alt="image1336"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/a267b516-7103-41a6-b2ac-d68e857fa2c5?org_if_sml=11844&amp;force_format=original"
-                  className="home-image45"
-                />
-                <img
-                  alt="image1337"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/cf1915ce-f9be-4dfd-93d3-af8dd85e7a06?org_if_sml=11524&amp;force_format=original"
-                  className="home-image46"
-                />
-                <img
-                  alt="image1337"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/cfcedd73-c9dc-47a1-b928-f38b6202594a?org_if_sml=11744&amp;force_format=original"
-                  className="home-image47"
-                />
-                <img
-                  alt="image1337"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/e83da19f-caee-4aab-b465-012cf8fce070?org_if_sml=17681&amp;force_format=original"
-                  className="home-image48"
-                />
-                <img
-                  alt="image1337"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/15d69424-2409-4675-8d9f-ff5ec209f168?org_if_sml=12848&amp;force_format=original"
-                  className="home-image49"
-                />
-                <img
-                  alt="image1337"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/3e5ef34a-b97c-45b3-88af-5df40c81b436?org_if_sml=13207&amp;force_format=original"
-                  className="home-image50"
-                />
-                <img
-                  alt="image1337"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/a5ce66e0-9f2f-4497-b9d1-39ecc8bcde86?org_if_sml=11102&amp;force_format=original"
-                  className="home-image51"
-                />
-                <img
-                  alt="image1337"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/d1126963-9cab-41c6-aa7c-ee8226212742?org_if_sml=11692&amp;force_format=original"
-                  className="home-image52"
-                />
-                <img
-                  alt="image1337"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/dd0d3f86-001f-42bc-8607-8a27e2cb7a93?org_if_sml=13126&amp;force_format=original"
-                  className="home-image53"
-                />
-                <img
-                  alt="image1337"
-                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/40b9362f-afe3-46c0-a675-06c1916eb5b2/1baec016-d39e-4ac1-96ee-28e519b64525?org_if_sml=12565&amp;force_format=original"
-                  className="home-image54"
-                />
-              </div>
+          <div className="home-frame382">
+            <span className="home-text252 BodyB1M">Indonesia</span>
+            <div className="home-frame3462">
+              <img
+                src="/external/image4674-asfl-200h.png"
+                alt="image4674"
+                className="home-image19"
+              />
+              <img
+                src="/external/image4674-m56-200h.png"
+                alt="image4674"
+                className="home-image20"
+              />
+              <img
+                src="/external/image4674-07xt-200h.png"
+                alt="image4674"
+                className="home-image21"
+              />
+              <img
+                src="/external/image4675-o0g-200h.png"
+                alt="image4675"
+                className="home-image22"
+              />
+              <img
+                src="/external/image4675-7xtd-200h.png"
+                alt="image4675"
+                className="home-image23"
+              />
+              <img
+                src="/external/image4675-1aai-200h.png"
+                alt="image4675"
+                className="home-image24"
+              />
+              <img
+                src="/external/image4675-ah2d-200h.png"
+                alt="image4675"
+                className="home-image25"
+              />
+              <img
+                src="/external/image4675-3zsg-200h.png"
+                alt="image4675"
+                className="home-image26"
+              />
+              <img
+                src="/external/image4675-dqi4-200h.png"
+                alt="image4675"
+                className="home-image27"
+              />
+              <img
+                src="/external/image4675-hik-200h.png"
+                alt="image4675"
+                className="home-image28"
+              />
+              <img
+                src="/external/image4675-br1g-200h.png"
+                alt="image4675"
+                className="home-image29"
+              />
+              <img
+                src="/external/image4675-j31k-200h.png"
+                alt="image4675"
+                className="home-image30"
+              />
+              <img
+                src="/external/image4675-gnkc-200h.png"
+                alt="image4675"
+                className="home-image31"
+              />
+              <img
+                src="/external/image4676-ytan-200h.png"
+                alt="image4676"
+                className="home-image32"
+              />
+              <img
+                src="/external/image4676-8lye-200h.png"
+                alt="image4676"
+                className="home-image33"
+              />
+              <img
+                src="/external/image4676-rx2e-200h.png"
+                alt="image4676"
+                className="home-image34"
+              />
+              <img
+                src="/external/image4676-wxa-200h.png"
+                alt="image4676"
+                className="home-image35"
+              />
+              <img
+                src="/external/image4676-jsul-200h.png"
+                alt="image4676"
+                className="home-image36"
+              />
+              <img
+                src="/external/image4676-2q0a-200h.png"
+                alt="image4676"
+                className="home-image37"
+              />
+              <img
+                src="/external/image4676-mkmq-200h.png"
+                alt="image4676"
+                className="home-image38"
+              />
+              <img
+                src="/external/image4676-8ujl-200h.png"
+                alt="image4676"
+                className="home-image39"
+              />
+              <img
+                src="/external/image4676-rdqm-200h.png"
+                alt="image4676"
+                className="home-image40"
+              />
+              <img
+                src="/external/image4676-lj4q-200h.png"
+                alt="image4676"
+                className="home-image41"
+              />
+              <img
+                src="/external/image4677-z0xa-200h.png"
+                alt="image4677"
+                className="home-image42"
+              />
+              <img
+                src="/external/image4677-tfrd-200h.png"
+                alt="image4677"
+                className="home-image43"
+              />
+              <img
+                src="/external/image4677-z2am-200h.png"
+                alt="image4677"
+                className="home-image44"
+              />
+              <img
+                src="/external/image4677-ekln-200h.png"
+                alt="image4677"
+                className="home-image45"
+              />
+              <img
+                src="/external/image4677-607k-200h.png"
+                alt="image4677"
+                className="home-image46"
+              />
+              <img
+                src="/external/image4677-wsub-200h.png"
+                alt="image4677"
+                className="home-image47"
+              />
+              <img
+                src="/external/image4677-jifa-200h.png"
+                alt="image4677"
+                className="home-image48"
+              />
+              <img
+                src="/external/image4677-j6m-200h.png"
+                alt="image4677"
+                className="home-image49"
+              />
+              <img
+                src="/external/image4677-pccf-200h.png"
+                alt="image4677"
+                className="home-image50"
+              />
+              <img
+                src="/external/image4677-oog5-200h.png"
+                alt="image4677"
+                className="home-image51"
+              />
+              <img
+                src="/external/image4678-v3v4-200h.png"
+                alt="image4678"
+                className="home-image52"
+              />
+              <img
+                src="/external/image4678-9l1b-200h.png"
+                alt="image4678"
+                className="home-image53"
+              />
+              <img
+                src="/external/image4678-orfo-200h.png"
+                alt="image4678"
+                className="home-image54"
+              />
             </div>
           </div>
           <div className="home-frame3851">
@@ -1367,13 +1365,13 @@ const Home = (props) => {
               <span className="home-text253 BodyB1M">United Kingdom</span>
               <div className="home-frame3463">
                 <img
-                  alt="image1338"
-                  src="/external/image1338-3kst-200h.png"
+                  src="/external/image4678-ww9n-200h.png"
+                  alt="image4678"
                   className="home-image55"
                 />
                 <img
-                  alt="image1338"
-                  src="/external/image1338-cv89-200h.png"
+                  src="/external/image4678-315-200h.png"
+                  alt="image4678"
                   className="home-image56"
                 />
               </div>
@@ -1381,40 +1379,40 @@ const Home = (props) => {
             <div className="home-frame3852">
               <span className="home-text254 BodyB1M">Vietnam</span>
               <img
-                alt="image1338"
-                src="/external/image1338-j6vr-200h.png"
+                src="/external/image4679-9f7j-200h.png"
+                alt="image4679"
                 className="home-image57"
               />
             </div>
             <div className="home-frame387">
               <span className="home-text255 BodyB1M">Morocco</span>
               <img
-                alt="image1339"
-                src="/external/image1339-dbam-200h.png"
+                src="/external/image4679-gmkg-200h.png"
+                alt="image4679"
                 className="home-image58"
               />
             </div>
             <div className="home-frame388">
               <span className="home-text256 BodyB1M">Iraq</span>
               <img
-                alt="image1339"
-                src="/external/image1339-a97i-200h.png"
+                src="/external/image4679-730q-200h.png"
+                alt="image4679"
                 className="home-image59"
               />
             </div>
             <div className="home-frame389">
               <span className="home-text257 BodyB1M">Afghanistan</span>
               <img
-                alt="image1339"
-                src="/external/image1339-h0yd-200h.png"
+                src="/external/image4680-7bli-200h.png"
+                alt="image4680"
                 className="home-image60"
               />
             </div>
             <div className="home-frame390">
               <span className="home-text258 BodyB1M">Mauritania</span>
               <img
-                alt="image1339"
-                src="/external/image1339-n3j-200h.png"
+                src="/external/image4680-w9lt-200h.png"
+                alt="image4680"
                 className="home-image61"
               />
             </div>
@@ -1422,13 +1420,13 @@ const Home = (props) => {
               <span className="home-text259 BodyB1M">Uganda</span>
               <div className="home-frame3464">
                 <img
-                  alt="image1340"
-                  src="/external/image1340-yp8n-200h.png"
+                  src="/external/image4680-1d0e-200h.png"
+                  alt="image4680"
                   className="home-image62"
                 />
                 <img
-                  alt="image1340"
-                  src="/external/image1340-2osi-200h.png"
+                  src="/external/image4680-1a8-200h.png"
+                  alt="image4680"
                   className="home-image63"
                 />
               </div>
@@ -1436,16 +1434,16 @@ const Home = (props) => {
             <div className="home-frame392">
               <span className="home-text260 BodyB1M">Kenya</span>
               <img
-                alt="image1340"
-                src="/external/image1340-qfb-200h.png"
+                src="/external/image4681-7r2q-200h.png"
+                alt="image4681"
                 className="home-image64"
               />
             </div>
             <div className="home-frame393">
               <span className="home-text261 BodyB1M">Zambia</span>
               <img
-                alt="image1341"
-                src="/external/image1341-uxhd-200h.png"
+                src="/external/image4681-dnnh-200h.png"
+                alt="image4681"
                 className="home-image65"
               />
             </div>
