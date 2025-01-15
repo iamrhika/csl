@@ -1,7 +1,6 @@
 .home-container1 {
   width: 100%;
   display: flex;
-  overflow: scroll;
   min-height: 100vh;
   align-items: center;
   padding-left: 0px;
@@ -23,6 +22,7 @@
   width: 1152px;
   height: 72px;
   display: flex;
+  overflow: hidden;
   align-items: center;
   padding-top: var(--dl-space-space-twounits);
   padding-left: 0px;
@@ -122,7 +122,7 @@
   display: flex;
   padding: var(--dl-space-space-twounits);
   z-index: 100;
-  overflow: scroll;
+  overflow: auto;
   position: absolute;
   transform: translateX(100%);
   transition: 0.5s;
@@ -169,6 +169,10 @@
   flex-direction: column;
 }
  
+.home-link12 {
+  text-decoration: none;
+}
+ 
 .home-link42 {
   text-decoration: none;
 }
@@ -208,7 +212,7 @@
   background-color: rgb(40, 161, 178);
 }
  
-.home-banner {
+.home-home {
   gap: 10px;
   width: 100%;
   height: 900px;
@@ -3325,9 +3329,6 @@
 }
  
 @media(max-width: 1195px) {
-  .home-container1 {
-    overflow: scroll;
-  }
   .home-navbar-interactive {
     padding-left: 40px;
     padding-right: 40px;
@@ -3592,9 +3593,6 @@
 }
  
 @media(max-width: 845px) {
-  .home-container1 {
-    overflow: scroll;
-  }
   .home-navbar-interactive {
     padding-left: 16px;
     padding-right: 16px;
@@ -3605,7 +3603,7 @@
   .home-burger-menu {
     display: flex;
   }
-  .home-banner {
+  .home-home {
     height: auto;
     align-self: center;
     padding-top: 0px;

@@ -1,5 +1,4 @@
 import React, { Fragment } from 'react'
-import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
@@ -23,9 +22,9 @@ const Home = (props) => {
           />
           <div data-thq="thq-navbar-nav" className="home-desktop-menu">
             <nav className="home-links1">
-              <Link to="/" className="home-link11 thq-body-small">
+              <a href="#home" className="home-link11 thq-body-small">
                 Home
-              </Link>
+              </a>
               <a href="#About Us" className="home-link41 thq-body-small">
                 About Us
               </a>
@@ -63,7 +62,9 @@ const Home = (props) => {
                 </div>
               </div>
               <nav className="home-links2">
-                <span className="thq-link thq-body-small">Home</span>
+                <a href="#home" className="home-link12 thq-link thq-body-small">
+                  Home
+                </a>
                 <a
                   href="#About Us"
                   className="home-link42 thq-link thq-body-small"
@@ -97,7 +98,7 @@ const Home = (props) => {
           </div>
         </header>
       </header>
-      <div className="home-banner">
+      <div id="home" className="home-home">
         <div className="home-frame115">
           <div className="home-frame116">
             <span className="home-text100 DisplayD2M">
