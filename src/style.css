@@ -45,9 +45,10 @@
   --dl-space-space-oneandhalfunits: 24px;
 }
 
-.body{
-  overflow: scroll !important;
+body{
+  overflow: scroll !important
 }
+
 .button {
   color: var(--dl-color-theme-neutral-dark);
   cursor: pointer;
