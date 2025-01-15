@@ -228,6 +228,9 @@
   .navbar1-burger-menu {
     display: flex;
   }
+  .navbar1-mobile-menu {
+    overflow: scroll;
+  }
 }
  
 @media(max-width: 767px) {

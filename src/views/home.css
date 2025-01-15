@@ -1,6 +1,7 @@
 .home-container1 {
   width: 100%;
   display: flex;
+  overflow: scroll;
   min-height: 100vh;
   align-items: center;
   padding-left: 0px;
@@ -121,6 +122,7 @@
   display: flex;
   padding: var(--dl-space-space-twounits);
   z-index: 100;
+  overflow: scroll;
   position: absolute;
   transform: translateX(100%);
   transition: 0.5s;
@@ -3323,6 +3325,9 @@
 }
  
 @media(max-width: 1195px) {
+  .home-container1 {
+    overflow: scroll;
+  }
   .home-navbar-interactive {
     padding-left: 40px;
     padding-right: 40px;
@@ -3587,6 +3592,9 @@
 }
  
 @media(max-width: 845px) {
+  .home-container1 {
+    overflow: scroll;
+  }
   .home-navbar-interactive {
     padding-left: 16px;
     padding-right: 16px;
