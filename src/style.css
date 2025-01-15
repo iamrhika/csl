@@ -87,6 +87,7 @@
  
 .teleport-show {
   display: flex !important;
+  transform: translateX(0%) !important;
 }
  
 .thq-input {
@@ -384,10 +385,6 @@
   -webkit-text-fill-color: transparent;
 }
  
-.thq-link:hover {
-  background-position: 0 100%;
-}
- 
 .thq-grid-auto-300 {
   display: grid;
   grid-gap: var(--dl-space-space-oneandhalfunits);
@@ -630,6 +627,15 @@
   letter-spacing: 0em;
 }
  
+.HeadingH3SB {
+  font-size: 28px;
+  font-style: normal;
+  font-family: Lexend;
+  font-weight: 600px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
 .HeadingH2SB {
   font-size: 36px;
   font-style: normal;
@@ -664,15 +670,6 @@
   line-height: 1.15;
   text-transform: none;
   text-decoration: none;
-}
- 
-.HeadingH3SB {
-  font-size: 28px;
-  font-style: normal;
-  font-family: Lexend;
-  font-weight: 600px;
-  font-stretch: normal;
-  letter-spacing: 0em;
 }
  
 @media(max-width: 845px) {

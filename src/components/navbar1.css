@@ -152,26 +152,6 @@
   flex-direction: column;
 }
  
-.navbar1-link12 {
-  text-decoration: none;
-}
- 
-.navbar1-link22 {
-  text-decoration: none;
-}
- 
-.navbar1-link32 {
-  text-decoration: none;
-}
- 
-.navbar1-link42 {
-  text-decoration: none;
-}
- 
-.navbar1-link52 {
-  text-decoration: none;
-}
- 
 .navbar1-buttons2 {
   gap: var(--dl-space-space-twounits);
   display: flex;

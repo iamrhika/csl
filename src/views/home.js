@@ -39,14 +39,12 @@ const Home = (props) => {
                 Product
               </a>
             </nav>
-            <div className="home-buttons1">
-              <button className="home-action11 thq-button-filled">
-                <span className="home-text100">Get Started</span>
-              </button>
-            </div>
+            <a href="#About Us" className="home-link52 thq-body-small">
+              Get Started
+            </a>
           </div>
           <div data-thq="thq-burger-menu" className="home-burger-menu">
-            <svg viewBox="0 0 1024 1024" className="home-icon10">
+            <svg viewBox="0 0 1024 1024" className="home-icon1">
               <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
             </svg>
           </div>
@@ -59,23 +57,18 @@ const Home = (props) => {
                   className="home-logo"
                 />
                 <div data-thq="thq-close-menu" className="home-close-menu">
-                  <svg viewBox="0 0 1024 1024" className="home-icon12">
+                  <svg viewBox="0 0 1024 1024" className="home-icon3">
                     <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
                   </svg>
                 </div>
               </div>
               <nav className="home-links2">
+                <span className="thq-link thq-body-small">Home</span>
                 <a
-                  href="TQ_R5VB5tDgM4"
-                  className="home-link12 thq-link thq-body-small"
+                  href="#About Us"
+                  className="home-link42 thq-link thq-body-small"
                 >
-                  Home
-                </a>
-                <a
-                  href="#Services"
-                  className="home-link22 thq-link thq-body-small"
-                >
-                  Services
+                  About Us
                 </a>
                 <a
                   href="#Acknowledgment"
@@ -84,43 +77,22 @@ const Home = (props) => {
                   Acknowedgement
                 </a>
                 <a
-                  href="https://www.teleporthq.io"
-                  className="home-link42 thq-link thq-body-small"
+                  href="#Services"
+                  className="home-link22 thq-link thq-body-small"
                 >
-                  About Us
+                  Services
                 </a>
                 <a
                   href="#Tab Selector 2"
-                  className="home-link52 thq-link thq-body-small"
+                  className="home-link53 thq-link thq-body-small"
                 >
                   Product
                 </a>
               </nav>
-              <div className="home-buttons2">
-                <button className="thq-button-filled">
-                  <span>Get Started</span>
-                </button>
-              </div>
-            </div>
-            <div className="home-icon-group">
-              <svg
-                viewBox="0 0 950.8571428571428 1024"
-                className="thq-icon-x-small"
-              >
-                <path d="M925.714 233.143c-25.143 36.571-56.571 69.143-92.571 95.429 0.571 8 0.571 16 0.571 24 0 244-185.714 525.143-525.143 525.143-104.571 0-201.714-30.286-283.429-82.857 14.857 1.714 29.143 2.286 44.571 2.286 86.286 0 165.714-29.143 229.143-78.857-81.143-1.714-149.143-54.857-172.571-128 11.429 1.714 22.857 2.857 34.857 2.857 16.571 0 33.143-2.286 48.571-6.286-84.571-17.143-148-91.429-148-181.143v-2.286c24.571 13.714 53.143 22.286 83.429 23.429-49.714-33.143-82.286-89.714-82.286-153.714 0-34.286 9.143-65.714 25.143-93.143 90.857 112 227.429 185.143 380.571 193.143-2.857-13.714-4.571-28-4.571-42.286 0-101.714 82.286-184.571 184.571-184.571 53.143 0 101.143 22.286 134.857 58.286 41.714-8 81.714-23.429 117.143-44.571-13.714 42.857-42.857 78.857-81.143 101.714 37.143-4 73.143-14.286 106.286-28.571z"></path>
-              </svg>
-              <svg
-                viewBox="0 0 877.7142857142857 1024"
-                className="thq-icon-x-small"
-              >
-                <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
-              </svg>
-              <svg
-                viewBox="0 0 602.2582857142856 1024"
-                className="thq-icon-x-small"
-              >
-                <path d="M548 6.857v150.857h-89.714c-70.286 0-83.429 33.714-83.429 82.286v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571c0-144.571 88.571-223.429 217.714-223.429 61.714 0 114.857 4.571 130.286 6.857z"></path>
-              </svg>
+              <div className="home-buttons"></div>
+              <a href="#About Us" className="home-link54 thq-body-small">
+                Get Started
+              </a>
             </div>
           </div>
         </header>
@@ -128,15 +100,15 @@ const Home = (props) => {
       <div className="home-banner">
         <div className="home-frame115">
           <div className="home-frame116">
-            <span className="home-text102 DisplayD2M">
+            <span className="home-text100 DisplayD2M">
               Creating Simple Life
             </span>
-            <span className="home-text103 BodyB1R">
+            <span className="home-text101 BodyB1R">
               Over 10 years of expertise in advancing smart card technology and
               industry-leading solutions.
             </span>
             <div className="home-frame112">
-              <span className="home-text104 BodyB2M">Let’s Get Started</span>
+              <span className="home-text102 BodyB2M">Let’s Get Started</span>
               <div className="home-frame114">
                 <img
                   alt="arrowupright1318"
@@ -156,10 +128,10 @@ const Home = (props) => {
                 />
               </div>
               <div className="home-frame1201">
-                <span className="home-text105 HeadingH5M">
+                <span className="home-text103 HeadingH5M">
                   End-to-End Smart Card Solutions
                 </span>
-                <span className="home-text106 BodyB3R">
+                <span className="home-text104 BodyB3R">
                   Equipped with advanced production lines and dedicated R&amp;D,
                   we deliver end-to-end smart card solutions to meet industry
                   challenges head-on.
@@ -175,10 +147,10 @@ const Home = (props) => {
                 />
               </div>
               <div className="home-frame1202">
-                <span className="home-text107 HeadingH5M">
+                <span className="home-text105 HeadingH5M">
                   Innovative Product Development
                 </span>
-                <span className="home-text108 BodyB3R">
+                <span className="home-text106 BodyB3R">
                   From design to production, our team partners with you to
                   create tailored smart card solutions that meet evolving market
                   demands.
@@ -192,16 +164,16 @@ const Home = (props) => {
         <div className="home-container3">
           <div className="home-frame122">
             <div className="home-frame123">
-              <span className="home-text109 HeadingH4M">About Us</span>
+              <span className="home-text107 HeadingH4M">About Us</span>
             </div>
-            <span className="home-text110">
+            <span className="home-text108">
               “Life is a form of innovation, always changing. Every Innovation
               begins with the small thing and the simple thing.”
             </span>
           </div>
           <div className="home-frame132">
             <div className="home-frame126">
-              <span className="home-text111 BodyB2R">
+              <span className="home-text109 BodyB2R">
                 <span>Cipta</span>
                 <span>
                   {' '}
@@ -235,7 +207,7 @@ const Home = (props) => {
                   />
                 </span>
               </span>
-              <span className="home-text118 BodyB2R">
+              <span className="home-text116 BodyB2R">
                 <span>
                   Rebranded in 2014, Cipta is the only Indonesian company
                   <span
@@ -264,8 +236,8 @@ const Home = (props) => {
                   src="/external/creditcard1320-e762.svg"
                   className="home-creditcard1"
                 />
-                <span className="home-text122 HeadingH2M">1 Million+</span>
-                <span className="home-text123 BodyB3R">
+                <span className="home-text120 HeadingH2M">1 Million+</span>
+                <span className="home-text121 BodyB3R">
                   Cards produced annually, ensuring we meet the demands of a
                   rapidly growing global market.
                 </span>
@@ -276,8 +248,8 @@ const Home = (props) => {
                   src="/external/briefcase1321-1l4l.svg"
                   className="home-briefcase"
                 />
-                <span className="home-text124 HeadingH2M">10 Years+</span>
-                <span className="home-text125 BodyB3R">
+                <span className="home-text122 HeadingH2M">10 Years+</span>
+                <span className="home-text123 BodyB3R">
                   Cipta has established itself as a trusted leader in smart card
                   technology, driving innovation across various sectors.
                 </span>
@@ -288,8 +260,8 @@ const Home = (props) => {
                   src="/external/award1321-thke.svg"
                   className="home-award1"
                 />
-                <span className="home-text126 HeadingH2M">10 Patents+</span>
-                <span className="home-text127 BodyB3R">
+                <span className="home-text124 HeadingH2M">10 Patents+</span>
+                <span className="home-text125 BodyB3R">
                   Our commitment to innovation has resulted in over 10 patents,
                   positioning Cipta as a pioneer in smart card technology
                   development.
@@ -303,16 +275,16 @@ const Home = (props) => {
         <div className="home-frame1351">
           <div className="home-container4">
             <div className="home-frame1411">
-              <span className="home-text128">Key Figures</span>
+              <span className="home-text126">Key Figures</span>
               <div className="home-frame134">
-                <span className="home-text129 BodyB1R">
+                <span className="home-text127 BodyB1R">
                   Cipta operates a state-of-the-art manufacturing facility with
                   six smart card production lines and three IC module lines. We
                   prioritize research and development, investing in our human
                   capital to address the dynamic challenges of the smart card
                   industry.
                 </span>
-                <span className="home-text130 BodyB1R">
+                <span className="home-text128 BodyB1R">
                   <span>
                     In 2012, we expanded our global footprint by opening a
                     branch office in
@@ -372,8 +344,8 @@ const Home = (props) => {
                     src="/external/simcard1323-2y3.svg"
                     className="home-simcard"
                   />
-                  <span className="home-text141 HeadingH2M">5 Million+</span>
-                  <span className="home-text142 BodyB3R">
+                  <span className="home-text139 HeadingH2M">5 Million+</span>
+                  <span className="home-text140 BodyB3R">
                     per month Smart card produced
                   </span>
                 </div>
@@ -383,8 +355,8 @@ const Home = (props) => {
                     src="/external/box1323-ab3.svg"
                     className="home-box"
                   />
-                  <span className="home-text143 HeadingH2M">10 Billion+</span>
-                  <span className="home-text144 BodyB3R">
+                  <span className="home-text141 HeadingH2M">10 Billion+</span>
+                  <span className="home-text142 BodyB3R">
                     Packaging produced
                   </span>
                 </div>
@@ -396,8 +368,8 @@ const Home = (props) => {
                     src="/external/users1323-w73b.svg"
                     className="home-users"
                   />
-                  <span className="home-text145 HeadingH2M">250+</span>
-                  <span className="home-text146 BodyB3R">
+                  <span className="home-text143 HeadingH2M">250+</span>
+                  <span className="home-text144 BodyB3R">
                     Professional employees
                   </span>
                 </div>
@@ -407,8 +379,8 @@ const Home = (props) => {
                     src="/external/globe1324-6g2.svg"
                     className="home-globe"
                   />
-                  <span className="home-text147 HeadingH2M">Global Market</span>
-                  <span className="home-text148 BodyB3R">
+                  <span className="home-text145 HeadingH2M">Global Market</span>
+                  <span className="home-text146 BodyB3R">
                     3 Continents, 17 Overseas Countries &amp; 2 Branches.
                   </span>
                 </div>
@@ -420,8 +392,8 @@ const Home = (props) => {
       <div id="Acknowledgment" className="home-acknowledgement">
         <div className="home-frame1331">
           <div className="home-frame335">
-            <span className="home-text149">Acknowledgment</span>
-            <span className="home-text150 BodyB1R">
+            <span className="home-text147">Acknowledgment</span>
+            <span className="home-text148 BodyB1R">
               Cipta is known for quality excellence and innovation, supported by
               various accreditations.
             </span>
@@ -437,13 +409,13 @@ const Home = (props) => {
                   />
                 </div>
                 <div className="home-frame340">
-                  <span className="home-text151 HeadingH5SB">
+                  <span className="home-text149 HeadingH5SB">
                     Purchase orders award
                   </span>
-                  <span className="home-text152 BodyB1R">
+                  <span className="home-text150 BodyB1R">
                     XL (Axiata Group)
                   </span>
-                  <span className="home-text153 BodyB1R">2012</span>
+                  <span className="home-text151 BodyB1R">2012</span>
                 </div>
               </div>
               <div className="home-frame3361">
@@ -455,11 +427,11 @@ const Home = (props) => {
                   />
                 </div>
                 <div className="home-frame341">
-                  <span className="home-text154 HeadingH5SB">
+                  <span className="home-text152 HeadingH5SB">
                     Pioneered &amp; implemented e-pension solution
                   </span>
-                  <span className="home-text155 BodyB1R">BTPN</span>
-                  <span className="home-text156 BodyB1R">2012</span>
+                  <span className="home-text153 BodyB1R">BTPN</span>
+                  <span className="home-text154 BodyB1R">2012</span>
                 </div>
               </div>
               <div className="home-frame3372">
@@ -471,13 +443,13 @@ const Home = (props) => {
                   />
                 </div>
                 <div className="home-frame342">
-                  <span className="home-text157 HeadingH5SB">
+                  <span className="home-text155 HeadingH5SB">
                     Purchase orders award
                   </span>
-                  <span className="home-text158 BodyB1R">
+                  <span className="home-text156 BodyB1R">
                     Indosat (Qtel Group)
                   </span>
-                  <span className="home-text159 BodyB1R">2011, 2012</span>
+                  <span className="home-text157 BodyB1R">2011, 2012</span>
                 </div>
               </div>
             </div>
@@ -491,11 +463,11 @@ const Home = (props) => {
                   />
                 </div>
                 <div className="home-frame343">
-                  <span className="home-text160 HeadingH5SB">
+                  <span className="home-text158 HeadingH5SB">
                     Pioneered the first Half SIM card in Indonesia
                   </span>
-                  <span className="home-text161 BodyB1R">AXIS (STC Group)</span>
-                  <span className="home-text162 BodyB1R">2009</span>
+                  <span className="home-text159 BodyB1R">AXIS (STC Group)</span>
+                  <span className="home-text160 BodyB1R">2009</span>
                 </div>
               </div>
               <div className="home-frame3362">
@@ -507,10 +479,10 @@ const Home = (props) => {
                   />
                 </div>
                 <div className="home-frame344">
-                  <span className="home-text163 HeadingH5SB">
+                  <span className="home-text161 HeadingH5SB">
                     First Indonesian vendor to achieve Celltick certificate
                   </span>
-                  <span className="home-text164 BodyB1R">Celtick</span>
+                  <span className="home-text162 BodyB1R">Celtick</span>
                 </div>
               </div>
               <div className="home-frame3373">
@@ -522,10 +494,10 @@ const Home = (props) => {
                   />
                 </div>
                 <div className="home-frame345">
-                  <span className="home-text165 HeadingH5SB">
+                  <span className="home-text163 HeadingH5SB">
                     First vendor to achieve SmartTrust WIB 1.3 certificate
                   </span>
-                  <span className="home-text166 BodyB1R">SmartTrust</span>
+                  <span className="home-text164 BodyB1R">SmartTrust</span>
                 </div>
               </div>
             </div>
@@ -534,7 +506,7 @@ const Home = (props) => {
       </div>
       <div className="home-member1">
         <div className="home-frame3471">
-          <span className="home-text167 HeadingH4M">
+          <span className="home-text165 HeadingH4M">
             Cipta is a proud member of leading global industry organizations,
             reflecting our commitment to quality and innovation.
           </span>
@@ -589,30 +561,30 @@ const Home = (props) => {
       </div>
       <div className="home-certification">
         <div className="home-frame1332">
-          <span className="home-text168 HeadingH3SB">Certification</span>
+          <span className="home-text166 HeadingH3SB">Certification</span>
           <div className="home-frame4221">
             <div className="home-frame420">
               <div className="home-frame4211">
                 <div className="home-frame11818">
                   <img
-                    src="/external/checkcircle4523-u7d1.svg"
                     alt="checkcircle4523"
+                    src="/external/checkcircle4523-u7d1.svg"
                     className="home-checkcircle1"
                   />
                 </div>
                 <img
-                  src="/external/rectangle284523-k2e-200h.png"
                   alt="Rectangle284523"
+                  src="/external/rectangle284523-k2e-200h.png"
                   className="home-rectangle281"
                 />
               </div>
               <div className="home-frame4151">
                 <div className="home-frame4231">
-                  <span className="home-text169 HeadingH5SB">
+                  <span className="home-text167 HeadingH5SB">
                     ISO 14298:2021
                   </span>
                 </div>
-                <span className="home-text170 BodyB2R">
+                <span className="home-text168 BodyB2R">
                   This certification demonstrates that PT Cipta Srigati Lestari
                   adheres to high-security standards in its printing and
                   production processes, including for sensitive documents. It
@@ -624,30 +596,30 @@ const Home = (props) => {
             <div className="home-frame4212">
               <div className="home-frame4213">
                 <img
-                  src="/external/rectangle294524-iy2m-200h.png"
                   alt="Rectangle294524"
+                  src="/external/rectangle294524-iy2m-200h.png"
                   className="home-rectangle291"
                 />
                 <div className="home-frame11819">
                   <img
-                    src="/external/checkcircle4524-jhlg.svg"
                     alt="checkcircle4524"
+                    src="/external/checkcircle4524-jhlg.svg"
                     className="home-checkcircle2"
                   />
                 </div>
                 <img
-                  src="/external/rectangle284524-i8y-200h.png"
                   alt="Rectangle284524"
+                  src="/external/rectangle284524-i8y-200h.png"
                   className="home-rectangle282"
                 />
               </div>
               <div className="home-frame4152">
                 <div className="home-frame4241">
-                  <span className="home-text171 HeadingH5SB">
+                  <span className="home-text169 HeadingH5SB">
                     ISO 45001:2018
                   </span>
                 </div>
-                <span className="home-text172 BodyB2R">
+                <span className="home-text170 BodyB2R">
                   This certification focuses on Occupational Health and Safety
                   Management Systems. It ensures that the company provides a
                   safe working environment, reduces the risk of workplace
@@ -658,30 +630,30 @@ const Home = (props) => {
             <div className="home-frame4222">
               <div className="home-frame4214">
                 <img
-                  src="/external/rectangle294525-wsp7-200h.png"
                   alt="Rectangle294525"
+                  src="/external/rectangle294525-wsp7-200h.png"
                   className="home-rectangle292"
                 />
                 <div className="home-frame11820">
                   <img
-                    src="/external/checkcircle4525-u3av.svg"
                     alt="checkcircle4525"
+                    src="/external/checkcircle4525-u3av.svg"
                     className="home-checkcircle3"
                   />
                 </div>
                 <img
-                  src="/external/rectangle284525-r6v-200h.png"
                   alt="Rectangle284525"
+                  src="/external/rectangle284525-r6v-200h.png"
                   className="home-rectangle283"
                 />
               </div>
               <div className="home-frame4153">
                 <div className="home-frame4242">
-                  <span className="home-text173 HeadingH5SB">
+                  <span className="home-text171 HeadingH5SB">
                     ISO 14001:2015
                   </span>
                 </div>
-                <span className="home-text174 BodyB2R">
+                <span className="home-text172 BodyB2R">
                   This certification emphasizes Environmental Management
                   Systems. PT Cipta Srigati Lestari is committed to minimizing
                   its environmental impact by adopting sustainable and efficient
@@ -692,30 +664,30 @@ const Home = (props) => {
             <div className="home-frame4232">
               <div className="home-frame4215">
                 <img
-                  src="/external/rectangle294526-3zlo-200h.png"
                   alt="Rectangle294526"
+                  src="/external/rectangle294526-3zlo-200h.png"
                   className="home-rectangle293"
                 />
                 <div className="home-frame11821">
                   <img
-                    src="/external/checkcircle4526-pen.svg"
                     alt="checkcircle4526"
+                    src="/external/checkcircle4526-pen.svg"
                     className="home-checkcircle4"
                   />
                 </div>
                 <img
-                  src="/external/rectangle284526-tw6b-200h.png"
                   alt="Rectangle284526"
+                  src="/external/rectangle284526-tw6b-200h.png"
                   className="home-rectangle284"
                 />
               </div>
               <div className="home-frame4154">
                 <div className="home-frame4243">
-                  <span className="home-text175 HeadingH5SB">
+                  <span className="home-text173 HeadingH5SB">
                     ISO 9001:2015
                   </span>
                 </div>
-                <span className="home-text176 BodyB2R">
+                <span className="home-text174 BodyB2R">
                   This certification demonstrates the implementation of a
                   high-quality Management System. PT Cipta Srigati Lestari is
                   dedicated to consistently delivering top-notch products and
@@ -726,25 +698,25 @@ const Home = (props) => {
             <div className="home-frame4244">
               <div className="home-frame4216">
                 <img
-                  src="/external/rectangle294527-mtdn-200h.png"
                   alt="Rectangle294527"
+                  src="/external/rectangle294527-mtdn-200h.png"
                   className="home-rectangle294"
                 />
                 <div className="home-frame11822">
                   <img
-                    src="/external/checkcircle4527-olvl.svg"
                     alt="checkcircle4527"
+                    src="/external/checkcircle4527-olvl.svg"
                     className="home-checkcircle5"
                   />
                 </div>
               </div>
               <div className="home-frame4155">
                 <div className="home-frame4245">
-                  <span className="home-text177 HeadingH5SB">
+                  <span className="home-text175 HeadingH5SB">
                     ISO 27001:2013
                   </span>
                 </div>
-                <span className="home-text178 BodyB2R">
+                <span className="home-text176 BodyB2R">
                   This certification represents the international standard for
                   Information Security Management Systems (ISMS). It ensures the
                   protection of sensitive data and information from threats or
@@ -758,8 +730,8 @@ const Home = (props) => {
       <div id="Services" className="home-services">
         <div className="home-frame1352">
           <div className="home-frame1412">
-            <span className="home-text179">Services</span>
-            <span className="home-text180 BodyB1R">
+            <span className="home-text177">Services</span>
+            <span className="home-text178 BodyB1R">
               We provide innovative, end-to-end solutions designed to support
               your business growth and meet evolving industry demands. Our
               expertise ensures the highest standards in every project we
@@ -776,10 +748,10 @@ const Home = (props) => {
                     className="home-illustration"
                   />
                 </div>
-                <span className="home-text181 HeadingH3M">
+                <span className="home-text179 HeadingH3M">
                   Product Development
                 </span>
-                <span className="home-text182 BodyB3R">
+                <span className="home-text180 BodyB3R">
                   <span>
                     Our team collaborates with you to
                     <span
@@ -844,10 +816,10 @@ const Home = (props) => {
                     className="home-cog"
                   />
                 </div>
-                <span className="home-text195 HeadingH3M">
+                <span className="home-text193 HeadingH3M">
                   Smart Card Manufacturing
                 </span>
-                <span className="home-text196 BodyB3R">
+                <span className="home-text194 BodyB3R">
                   <span>
                     Our facilities handle all aspects of smart card
                     manufacturing. With six smart card and three IC module
@@ -866,10 +838,10 @@ const Home = (props) => {
                     className="home-processor"
                   />
                 </div>
-                <span className="home-text199 HeadingH3M">
+                <span className="home-text197 HeadingH3M">
                   Smart Card OS &amp; Applet Development
                 </span>
-                <span className="home-text200 BodyB3R">
+                <span className="home-text198 BodyB3R">
                   <span>
                     Our Smart Card R&amp;D team develops user-friendly
                     <span
@@ -921,10 +893,10 @@ const Home = (props) => {
                     className="home-creditcard2"
                   />
                 </div>
-                <span className="home-text210 HeadingH3M">
+                <span className="home-text208 HeadingH3M">
                   Smart Card Solutions
                 </span>
-                <span className="home-text211 BodyB3R">
+                <span className="home-text209 BodyB3R">
                   <span>
                     We provide comprehensive smart card solutions, including
                     enrollment with
@@ -974,24 +946,24 @@ const Home = (props) => {
       <TabSelector
         text2={
           <Fragment>
-            <span className="home-text221">Card Production</span>
+            <span className="home-text219">Card Production</span>
           </Fragment>
         }
         text3={
           <Fragment>
-            <span className="home-text222">
+            <span className="home-text220">
               Smart Card &amp; Personalization
             </span>
           </Fragment>
         }
         text4={
           <Fragment>
-            <span className="home-text223">Prepress</span>
+            <span className="home-text221">Prepress</span>
           </Fragment>
         }
         text5={
           <Fragment>
-            <span className="home-text224">
+            <span className="home-text222">
               This term used in the printing and publishing industries for the
               processes and procedures that occur between the creation of print
               layout and final printing.
@@ -1000,12 +972,12 @@ const Home = (props) => {
         }
         text6={
           <Fragment>
-            <span className="home-text225">Sheet Printing</span>
+            <span className="home-text223">Sheet Printing</span>
           </Fragment>
         }
         text7={
           <Fragment>
-            <span className="home-text226">
+            <span className="home-text224">
               Before card producing, the front and back side layers have to be
               printed with specific layout.
             </span>
@@ -1013,12 +985,12 @@ const Home = (props) => {
         }
         text8={
           <Fragment>
-            <span className="home-text227">Sheet Collating</span>
+            <span className="home-text225">Sheet Collating</span>
           </Fragment>
         }
         text9={
           <Fragment>
-            <span className="home-text228">
+            <span className="home-text226">
               This step means collating and alignment of different sheetlayers
               for laminated cards.
             </span>
@@ -1026,12 +998,12 @@ const Home = (props) => {
         }
         text10={
           <Fragment>
-            <span className="home-text229">Sheet Laminating</span>
+            <span className="home-text227">Sheet Laminating</span>
           </Fragment>
         }
         text11={
           <Fragment>
-            <span className="home-text230">
+            <span className="home-text228">
               After the correct alignment and prefixing of the single sheet
               layers, they have to be laminated to get a stable card body.
             </span>
@@ -1039,12 +1011,12 @@ const Home = (props) => {
         }
         text12={
           <Fragment>
-            <span className="home-text231">Card Punching</span>
+            <span className="home-text229">Card Punching</span>
           </Fragment>
         }
         text13={
           <Fragment>
-            <span className="home-text232">
+            <span className="home-text230">
               At this process, a single card is punched out of the laminated
               sheets.
             </span>
@@ -1052,29 +1024,29 @@ const Home = (props) => {
         }
         text21={
           <Fragment>
-            <span className="home-text233">IC Module</span>
+            <span className="home-text231">IC Module</span>
           </Fragment>
         }
         text22={
           <Fragment>
-            <span className="home-text234">Card Production</span>
+            <span className="home-text232">Card Production</span>
           </Fragment>
         }
         text31={
           <Fragment>
-            <span className="home-text235">
+            <span className="home-text233">
               Smart Card &amp; Personalization
             </span>
           </Fragment>
         }
         text41={
           <Fragment>
-            <span className="home-text236">Combined Milling Implanting</span>
+            <span className="home-text234">Combined Milling Implanting</span>
           </Fragment>
         }
         text51={
           <Fragment>
-            <span className="home-text237">
+            <span className="home-text235">
               This central process in the smart card production chain. Chip
               modules are punched out of the tape, placed and fixed in the
               cavity of card.
@@ -1083,12 +1055,12 @@ const Home = (props) => {
         }
         text61={
           <Fragment>
-            <span className="home-text238">Plug Punching</span>
+            <span className="home-text236">Plug Punching</span>
           </Fragment>
         }
         text71={
           <Fragment>
-            <span className="home-text239">
+            <span className="home-text237">
               Plug punching is a precise process used to pre-punch SIM plugs,
               ensuring consistent quality and accuracy for optimal card
               performance.
@@ -1097,12 +1069,12 @@ const Home = (props) => {
         }
         text81={
           <Fragment>
-            <span className="home-text240">Personalization</span>
+            <span className="home-text238">Personalization</span>
           </Fragment>
         }
         text91={
           <Fragment>
-            <span className="home-text241">
+            <span className="home-text239">
               This step will make each card into a distinctive, an individual
               item which cannot be forgotten. The use of the most-up-todate
               production technology supports every type of optical
@@ -1112,12 +1084,12 @@ const Home = (props) => {
         }
         text101={
           <Fragment>
-            <span className="home-text242">Fulfillment</span>
+            <span className="home-text240">Fulfillment</span>
           </Fragment>
         }
         text111={
           <Fragment>
-            <span className="home-text243">
+            <span className="home-text241">
               A variety of fully secure solutions, ranging from simple packages
               and card carriers are to more sophisticated packs designed to
               convey a high-end image of your product.
@@ -1126,12 +1098,12 @@ const Home = (props) => {
         }
         text121={
           <Fragment>
-            <span className="home-text244">Delivery</span>
+            <span className="home-text242">Delivery</span>
           </Fragment>
         }
         text131={
           <Fragment>
-            <span className="home-text245">
+            <span className="home-text243">
               After your smart card produced and packaged with your special
               packaging, we are ready to deliver the smart card into your place.
             </span>
@@ -1139,29 +1111,29 @@ const Home = (props) => {
         }
         text211={
           <Fragment>
-            <span className="home-text246">IC Module</span>
+            <span className="home-text244">IC Module</span>
           </Fragment>
         }
         text221={
           <Fragment>
-            <span className="home-text247">Card Production</span>
+            <span className="home-text245">Card Production</span>
           </Fragment>
         }
         text311={
           <Fragment>
-            <span className="home-text248">
+            <span className="home-text246">
               Smart Card &amp; Personalization
             </span>
           </Fragment>
         }
         text2111={
           <Fragment>
-            <span className="home-text249">IC Module</span>
+            <span className="home-text247">IC Module</span>
           </Fragment>
         }
         onClickBg={
           <Fragment>
-            <span className="home-text250">Smart Card Production Process</span>
+            <span className="home-text248">Smart Card Production Process</span>
           </Fragment>
         }
         rootClassName="tab-selectorroot-class-name"
@@ -1172,278 +1144,278 @@ const Home = (props) => {
       ></TabSelector2>
       <div className="home-member2">
         <div className="home-frame3472">
-          <span className="home-text251 HeadingH4M">
+          <span className="home-text249 HeadingH4M">
             Trusted by Clients Around the Globe
           </span>
           <div className="home-frame382">
-            <span className="home-text252 BodyB1M">Indonesia</span>
+            <span className="home-text250 BodyB1M">Indonesia</span>
             <div className="home-frame3462">
               <img
-                src="/external/image4674-asfl-200h.png"
                 alt="image4674"
+                src="/external/image4674-asfl-200h.png"
                 className="home-image19"
               />
               <img
-                src="/external/image4674-m56-200h.png"
                 alt="image4674"
+                src="/external/image4674-m56-200h.png"
                 className="home-image20"
               />
               <img
-                src="/external/image4674-07xt-200h.png"
                 alt="image4674"
+                src="/external/image4674-07xt-200h.png"
                 className="home-image21"
               />
               <img
-                src="/external/image4675-o0g-200h.png"
                 alt="image4675"
+                src="/external/image4675-o0g-200h.png"
                 className="home-image22"
               />
               <img
-                src="/external/image4675-7xtd-200h.png"
                 alt="image4675"
+                src="/external/image4675-7xtd-200h.png"
                 className="home-image23"
               />
               <img
-                src="/external/image4675-1aai-200h.png"
                 alt="image4675"
+                src="/external/image4675-1aai-200h.png"
                 className="home-image24"
               />
               <img
-                src="/external/image4675-ah2d-200h.png"
                 alt="image4675"
+                src="/external/image4675-ah2d-200h.png"
                 className="home-image25"
               />
               <img
-                src="/external/image4675-3zsg-200h.png"
                 alt="image4675"
+                src="/external/image4675-3zsg-200h.png"
                 className="home-image26"
               />
               <img
-                src="/external/image4675-dqi4-200h.png"
                 alt="image4675"
+                src="/external/image4675-dqi4-200h.png"
                 className="home-image27"
               />
               <img
-                src="/external/image4675-hik-200h.png"
                 alt="image4675"
+                src="/external/image4675-hik-200h.png"
                 className="home-image28"
               />
               <img
-                src="/external/image4675-br1g-200h.png"
                 alt="image4675"
+                src="/external/image4675-br1g-200h.png"
                 className="home-image29"
               />
               <img
-                src="/external/image4675-j31k-200h.png"
                 alt="image4675"
+                src="/external/image4675-j31k-200h.png"
                 className="home-image30"
               />
               <img
-                src="/external/image4675-gnkc-200h.png"
                 alt="image4675"
+                src="/external/image4675-gnkc-200h.png"
                 className="home-image31"
               />
               <img
-                src="/external/image4676-ytan-200h.png"
                 alt="image4676"
+                src="/external/image4676-ytan-200h.png"
                 className="home-image32"
               />
               <img
-                src="/external/image4676-8lye-200h.png"
                 alt="image4676"
+                src="/external/image4676-8lye-200h.png"
                 className="home-image33"
               />
               <img
-                src="/external/image4676-rx2e-200h.png"
                 alt="image4676"
+                src="/external/image4676-rx2e-200h.png"
                 className="home-image34"
               />
               <img
-                src="/external/image4676-wxa-200h.png"
                 alt="image4676"
+                src="/external/image4676-wxa-200h.png"
                 className="home-image35"
               />
               <img
-                src="/external/image4676-jsul-200h.png"
                 alt="image4676"
+                src="/external/image4676-jsul-200h.png"
                 className="home-image36"
               />
               <img
-                src="/external/image4676-2q0a-200h.png"
                 alt="image4676"
+                src="/external/image4676-2q0a-200h.png"
                 className="home-image37"
               />
               <img
-                src="/external/image4676-mkmq-200h.png"
                 alt="image4676"
+                src="/external/image4676-mkmq-200h.png"
                 className="home-image38"
               />
               <img
-                src="/external/image4676-8ujl-200h.png"
                 alt="image4676"
+                src="/external/image4676-8ujl-200h.png"
                 className="home-image39"
               />
               <img
-                src="/external/image4676-rdqm-200h.png"
                 alt="image4676"
+                src="/external/image4676-rdqm-200h.png"
                 className="home-image40"
               />
               <img
-                src="/external/image4676-lj4q-200h.png"
                 alt="image4676"
+                src="/external/image4676-lj4q-200h.png"
                 className="home-image41"
               />
               <img
-                src="/external/image4677-z0xa-200h.png"
                 alt="image4677"
+                src="/external/image4677-z0xa-200h.png"
                 className="home-image42"
               />
               <img
-                src="/external/image4677-tfrd-200h.png"
                 alt="image4677"
+                src="/external/image4677-tfrd-200h.png"
                 className="home-image43"
               />
               <img
-                src="/external/image4677-z2am-200h.png"
                 alt="image4677"
+                src="/external/image4677-z2am-200h.png"
                 className="home-image44"
               />
               <img
-                src="/external/image4677-ekln-200h.png"
                 alt="image4677"
+                src="/external/image4677-ekln-200h.png"
                 className="home-image45"
               />
               <img
-                src="/external/image4677-607k-200h.png"
                 alt="image4677"
+                src="/external/image4677-607k-200h.png"
                 className="home-image46"
               />
               <img
-                src="/external/image4677-wsub-200h.png"
                 alt="image4677"
+                src="/external/image4677-wsub-200h.png"
                 className="home-image47"
               />
               <img
-                src="/external/image4677-jifa-200h.png"
                 alt="image4677"
+                src="/external/image4677-jifa-200h.png"
                 className="home-image48"
               />
               <img
-                src="/external/image4677-j6m-200h.png"
                 alt="image4677"
+                src="/external/image4677-j6m-200h.png"
                 className="home-image49"
               />
               <img
-                src="/external/image4677-pccf-200h.png"
                 alt="image4677"
+                src="/external/image4677-pccf-200h.png"
                 className="home-image50"
               />
               <img
-                src="/external/image4677-oog5-200h.png"
                 alt="image4677"
+                src="/external/image4677-oog5-200h.png"
                 className="home-image51"
               />
               <img
-                src="/external/image4678-v3v4-200h.png"
                 alt="image4678"
+                src="/external/image4678-v3v4-200h.png"
                 className="home-image52"
               />
               <img
-                src="/external/image4678-9l1b-200h.png"
                 alt="image4678"
+                src="/external/image4678-9l1b-200h.png"
                 className="home-image53"
               />
               <img
-                src="/external/image4678-orfo-200h.png"
                 alt="image4678"
+                src="/external/image4678-orfo-200h.png"
                 className="home-image54"
               />
             </div>
           </div>
           <div className="home-frame3851">
             <div className="home-frame383">
-              <span className="home-text253 BodyB1M">United Kingdom</span>
+              <span className="home-text251 BodyB1M">United Kingdom</span>
               <div className="home-frame3463">
                 <img
-                  src="/external/image4678-ww9n-200h.png"
                   alt="image4678"
+                  src="/external/image4678-ww9n-200h.png"
                   className="home-image55"
                 />
                 <img
-                  src="/external/image4678-315-200h.png"
                   alt="image4678"
+                  src="/external/image4678-315-200h.png"
                   className="home-image56"
                 />
               </div>
             </div>
             <div className="home-frame3852">
-              <span className="home-text254 BodyB1M">Vietnam</span>
+              <span className="home-text252 BodyB1M">Vietnam</span>
               <img
-                src="/external/image4679-9f7j-200h.png"
                 alt="image4679"
+                src="/external/image4679-9f7j-200h.png"
                 className="home-image57"
               />
             </div>
             <div className="home-frame387">
-              <span className="home-text255 BodyB1M">Morocco</span>
+              <span className="home-text253 BodyB1M">Morocco</span>
               <img
-                src="/external/image4679-gmkg-200h.png"
                 alt="image4679"
+                src="/external/image4679-gmkg-200h.png"
                 className="home-image58"
               />
             </div>
             <div className="home-frame388">
-              <span className="home-text256 BodyB1M">Iraq</span>
+              <span className="home-text254 BodyB1M">Iraq</span>
               <img
-                src="/external/image4679-730q-200h.png"
                 alt="image4679"
+                src="/external/image4679-730q-200h.png"
                 className="home-image59"
               />
             </div>
             <div className="home-frame389">
-              <span className="home-text257 BodyB1M">Afghanistan</span>
+              <span className="home-text255 BodyB1M">Afghanistan</span>
               <img
-                src="/external/image4680-7bli-200h.png"
                 alt="image4680"
+                src="/external/image4680-7bli-200h.png"
                 className="home-image60"
               />
             </div>
             <div className="home-frame390">
-              <span className="home-text258 BodyB1M">Mauritania</span>
+              <span className="home-text256 BodyB1M">Mauritania</span>
               <img
-                src="/external/image4680-w9lt-200h.png"
                 alt="image4680"
+                src="/external/image4680-w9lt-200h.png"
                 className="home-image61"
               />
             </div>
             <div className="home-frame391">
-              <span className="home-text259 BodyB1M">Uganda</span>
+              <span className="home-text257 BodyB1M">Uganda</span>
               <div className="home-frame3464">
                 <img
-                  src="/external/image4680-1d0e-200h.png"
                   alt="image4680"
+                  src="/external/image4680-1d0e-200h.png"
                   className="home-image62"
                 />
                 <img
-                  src="/external/image4680-1a8-200h.png"
                   alt="image4680"
+                  src="/external/image4680-1a8-200h.png"
                   className="home-image63"
                 />
               </div>
             </div>
             <div className="home-frame392">
-              <span className="home-text260 BodyB1M">Kenya</span>
+              <span className="home-text258 BodyB1M">Kenya</span>
               <img
-                src="/external/image4681-7r2q-200h.png"
                 alt="image4681"
+                src="/external/image4681-7r2q-200h.png"
                 className="home-image64"
               />
             </div>
             <div className="home-frame393">
-              <span className="home-text261 BodyB1M">Zambia</span>
+              <span className="home-text259 BodyB1M">Zambia</span>
               <img
-                src="/external/image4681-dnnh-200h.png"
                 alt="image4681"
+                src="/external/image4681-dnnh-200h.png"
                 className="home-image65"
               />
             </div>
@@ -1530,10 +1502,10 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-frame403">
-              <span className="home-text262 HeadingH2SB">
+              <span className="home-text260 HeadingH2SB">
                 Get in Touch with Us
               </span>
-              <span className="home-text263 BodyB1R">
+              <span className="home-text261 BodyB1R">
                 Have questions or need assistance? Contact us today, and our
                 team will be happy to help you!
               </span>
@@ -1542,32 +1514,32 @@ const Home = (props) => {
           <div className="home-frame400">
             <div className="home-frame402">
               <div className="home-frame397">
-                <span className="home-text264 BodyB3M">Full name</span>
+                <span className="home-text262 BodyB3M">Full name</span>
                 <div className="home-frame3961">
-                  <span className="home-text265 BodyB3R">
+                  <span className="home-text263 BodyB3R">
                     Enter your full name
                   </span>
                 </div>
               </div>
               <div className="home-frame399">
-                <span className="home-text266 BodyB3M">Email address</span>
+                <span className="home-text264 BodyB3M">Email address</span>
                 <div className="home-frame3962">
-                  <span className="home-text267 BodyB3R">
+                  <span className="home-text265 BodyB3R">
                     email@address.com
                   </span>
                 </div>
               </div>
             </div>
             <div className="home-frame398">
-              <span className="home-text268 BodyB3M">Send us a message</span>
+              <span className="home-text266 BodyB3M">Send us a message</span>
               <div className="home-frame3963">
-                <span className="home-text269 BodyB3R">
+                <span className="home-text267 BodyB3R">
                   Write us a message...
                 </span>
               </div>
             </div>
             <div className="home-frame1061">
-              <span className="home-text270 BodyB2M">Send Message</span>
+              <span className="home-text268 BodyB2M">Send Message</span>
             </div>
           </div>
         </div>
@@ -1635,10 +1607,10 @@ const Home = (props) => {
                 </div>
               </div>
               <div className="home-frame404">
-                <span className="home-text271 BodyB2M">
+                <span className="home-text269 BodyB2M">
                   PT. Cipta Srigati Lestari
                 </span>
-                <span className="home-text272 BodyB3R">
+                <span className="home-text270 BodyB3R">
                   Plaza Simatupang Lantai. 2 Jl. TB. Simatupang Kav. IS No.01
                   Pd. Pinang, Kec. Kby. Lama Kota Jakarta Selatan, Daerah Khusus
                   Ibukota Jakarta 12310
@@ -1647,19 +1619,27 @@ const Home = (props) => {
             </div>
             <div className="home-frame406">
               <div className="home-frame405">
-                <span className="home-text273 BodyB3R">Home</span>
-                <span className="home-text274 BodyB3R">About Us</span>
-                <span className="home-text275 BodyB3R">Acknowledgement</span>
-                <span className="home-text276 BodyB3R">Service</span>
-                <span className="home-text277 BodyB3R">Product</span>
+                <span className="home-text271 BodyB3R">Home</span>
+                <a href="#About Us" className="home-text272 BodyB3R">
+                  About Us
+                </a>
+                <a href="#Acknowledgment" className="home-text273 BodyB3R">
+                  Acknowledgement
+                </a>
+                <a href="#Services" className="home-text274 BodyB3R">
+                  Service
+                </a>
+                <a href="#Tab Selector 2" className="home-text275 BodyB3R">
+                  Product
+                </a>
               </div>
               <div className="home-frame1062">
-                <span className="home-text278 BodyB3M">Contact Us</span>
+                <span className="home-text276 BodyB3M">Contact Us</span>
               </div>
             </div>
           </div>
           <div className="home-frame409">
-            <span className="home-text279 BodyB3R">
+            <span className="home-text277 BodyB3R">
               © 2024 Cipta. All rights reserved
             </span>
           </div>
